@@ -21,9 +21,15 @@ A abordagem utilizada foi a Regressão Polinomial. O processo envolveu os seguin
 Inicialmente, o modelo de Regressão Polinomial foi construído com um grau de 2. Isso significa que a relação entre 'Metragem' e 'Valor_Aluguel' foi modelada como uma curva quadrática.
 -   **R² obtido**: `0.5423`
 
+-   <img width="589" height="455" alt="image" src="https://github.com/user-attachments/assets/2c058e5f-e4d4-48e2-8672-f148aaa1169b" />
+
+
 ### Experimento com `degree=4`
 Em uma segunda etapa, o grau do polinômio foi aumentado para 4 para verificar se um modelo mais complexo poderia capturar melhor as relações nos dados.
 -   **R² obtido**: `0.5596`
+
+-   <img width="589" height="455" alt="image" src="https://github.com/user-attachments/assets/309bb439-b81a-4193-9d2c-d5a376a3c961" />
+
 
 ## Resultados e Conclusão
 
